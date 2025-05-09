@@ -1,0 +1,242 @@
+{
+    "website": {
+        "headline": "Prospect like a pro with Prospecting PhD",
+        "subHeadline": "Our proven process to supercharge your prospecting results",
+        "wealthEquation": "Mindset x Skillset x Cadence = Wealth",
+        "cta": {
+            "headline": "Do you want to unlock your income potential?",
+            "subHeadline": "Seats Are Limited - First Come, First Served",
+            "text": "Enroll Now",
+            "link": "www.prospectingphd.com"
+        },
+        "prospectingPHDHeading": "Introducing the Prospecting Success Formula",
+        "body": "During 7+ years of research with the country’s greatest prospectors, we’ve identified what it takes to score high in all three disciplines and become a Prospecting PhD.",
+        "toolbox": {
+            "heading": "The Prospecting PhD Toolbox",
+            "subheading": "The Prospecting Toolbox is a collection of over 20 powerful tools that will help you to become a Prospecting PhD.",
+            "tools": [
+                {
+                    "title": "The Prospecting Playbook",
+                    "description": "A comprehensive guide to the Prospecting Success Formula, filled with actionable strategies and techniques.",
+                    "link": "www.prospectingphd.com"
+                },
+                {
+                    "title": "Prospecting Class",
+                    "description": "A step-by-step guide to creating a Prospecting Assembly Line to have an overflowing pipeline in 4 months.",
+                    "link": "https://www.prospectingphd.com/session-recordings"
+                },
+                {
+                    "title": "The Prospecting Toolbox",
+                    "description": "A collection of over 20 powerful tools that will help you to become a Prospecting PhD.",
+                    "link": "www.prospectingphd.com"
+                },
+                {
+                    "title": "The Prospecting Community",
+                    "description": "A community of like-minded professionals who share your goals and challenges.",
+                    "link": "www.prospectingphd.com"
+                },
+                {
+                    "title": "The Prospecting Coaching",
+                    "description": "365 days of high impact coaching and support.",
+                    "link": "www.prospectingphd.com"
+                },
+                {
+                    "title": "The Prospecting Data Analytics",
+                    "description": "Leverage valuable data analytics to improve metrics you’ve never even thought about improving before.",
+                    "link": "www.prospectingphd.com"
+                },
+                {
+                    "title": "The Prospecting Mindset",
+                    "description": "Develop a toughness mindset that propels you forward under any circumstances.",
+                    "link": "www.prospectingphd.com"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "Prospecting Playbook",
+                "link": "www.prospectingphd.com"
+            },
+            {
+                "title": "Prospecting Assembly Line",
+                "link": "www.prospectingphd.com"
+            },
+            {
+                "title": "Prospecting Toolbox",
+                "link": "www.prospectingphd.com"
+            },
+            {
+                "title": "Prospecting Community",
+                "link": "www.prospectingphd.com"
+            },
+            {
+                "title": "Prospecting Coaching",
+                "link": "www.prospectingphd.com"
+            },
+            {
+                "title": "Prospecting Data Analytics",
+                "link": "www.prospectingphd.com"
+            },
+            {
+                "title": "Prospecting Mindset",
+                "link": "www.prospectingphd.com"
+            }
+        ],
+        "callOuts": [
+            "DISCOVER new tools that make prospecting easier and more enjoyable",
+            "MASTER prospecting methods that lead to higher closing ratios and shorter sales cycles",
+            "LEARN how to create a Prospecting Assembly Line to have an overflowing pipeline in 4 months",
+            "LEVERAGE valuable data analytics to improve metrics you’ve never even thought about improving before",
+            "DEVELOP a toughness mindset that propels you forward under any circumstances"
+        ],
+        "threeItems": [
+            "Affordable",
+            "Convenient",
+            "Always Accessible"
+        ],
+        "cost": "Only $3,500 per advisor. Payment plans available.",
+        "discounts": "*Group pricing discounts available, please reach out to info@prospectingphd.com for more details*",
+        "whatsIncluded": {
+            "heading": "What's included",
+            "items": [
+                "Live classes every Monday @ 1:30 CST",
+                "365 days of high impact coaching and support",
+                "Access to our proprietary toolbox with over 20+ powerful tools",
+                "Regular check-ins via phone or video chat for ongoing guidance and accountability",
+                "A comprehensive prospecting playbook filled with actionable strategies and techniques",
+                "Ongoing access to our community of like-minded professionals who share your goals and challenges",
+                "The opportunity to ask questions and get answers from experts in the field"
+            ]
+        },
+        "signUp": {
+            "signUpHeadline": "Let Us Help You Get There...",
+            "signUpSubheadline": "Enroll Now & Start Your Journey Today!",
+            "contactForm": {
+                "heading": "NEED MORE INFORMATION?",
+                "fields": [
+                    {
+                        "label": "First Name",
+                        "type": "text",
+                        "name": "firstName"
+                    },
+                    {
+                        "label": "Last Name",
+                        "type": "text",
+                        "name": "lastName"
+                    },
+                    {
+                        "label": "Email",
+                        "type": "email",
+                        "name": "email"
+                    },
+                    {
+                        "label": "Agency",
+                        "type": "text",
+                        "name": "agency"
+                    },
+                    {
+                        "label": "Company",
+                        "type": "text",
+                        "name": "company"
+                    },
+                    {
+                        "label": "Subject",
+                        "type": "text",
+                        "name": "subject"
+                    },
+                    {
+                        "label": "ProspectingPHD Question",
+                        "type": "textarea",
+                        "name": "message"
+                    }
+                ],
+                "submitLabel": "Submit"
+            }
+        },
+        "email": "info@prospectingPhD.com",
+        "programName": "Prospecting PhD",
+        "companyName": "Blueprint Consulting Group, LLC"
+    },
+    "influenceLevers": {
+        "reciprocity": {
+            "definition": "Reciprocation – “requires that one person try to repay what another person has provided”",
+            "how": [
+                "give a great deal of value",
+                "provide a free resource that has a high perceived value - set a price"
+            ]
+        },
+        "liking": {
+            "definition": "Liking – states that “people prefer to say yes to individuals they like”",
+            "how": [
+                "showcase personality in video"
+            ]
+        },
+        "socialProof": {
+            "definition": "Social Proof – states that people decide what to believe or how to act in a situation by examining what others are believing or doing there",
+            "results": {
+                "heading": "The Results Are Clear",
+                "testimonials": [
+                    {
+                        "content": "I set 17 appointments in one week by Running the ROOTA with three different COI’s.",
+                        "name": "JD"
+                    },
+                    {
+                        "content": "You aren’t just changing how we prospect, you're changing our lives!",
+                        "name": "Brian"
+                    },
+                    {
+                        "content": "This is such a fresh way to prospect!",
+                        "name": "Brittany"
+                    },
+                    {
+                        "content": "When I hire a new sales person on my team one of the first things I do it get them registered for the next Prospecting PhD class. It is our standard training curriculum.",
+                        "name": "Tom"
+                    },
+                    {
+                        "content": "I have created more opportunities this year than any other year of my career and I am only 90 days in.",
+                        "name": "Jill"
+                    },
+                    {
+                        "content": "My prospecting skillset went from a 6-10 today.",
+                        "name": "Gary"
+                    },
+                    {
+                        "content": "Over the last 10 years these concepts have been responsible for millions of dollars of revenue and compensation. There is nothing like it.",
+                        "name": "Lauren"
+                    },
+                    {
+                        "content": "I am on a large sales team and we have regular prospecting competitions and I won this quarter, and I believe I will never lose another one.",
+                        "name": "Terri"
+                    }
+                ]
+            },
+            "how": [
+                "agency owners speaking to their agents success with the program",
+                "producers speaking to how the program has lead to their success"
+            ]
+        },
+        "authority": {
+            "definition": "Authority – the power or right to give orders, make decisions, and enforce obedience",
+            "how": [
+                "speak to experience training hundreds of producers across the country"
+            ]
+        },
+        "scarcity": {
+            "definition": "Scarcity – states that “people assign more value to opportunities that are less available”",
+            "how": [
+                "limited capacity per cohort",
+                "limited time to enroll - countdown timer"
+            ]
+        },
+        "commitmentConsistency": {
+            "definition": "Commitment and Consistency – “a desire in most people to be and look consistent within their words, beliefs, attitudes, and deeds”",
+            "how": [
+                "ask if they would like to grow.",
+                "paint a vision of what their life could look like if they were to reach their potential.",
+                "ask them if they are willing to do what it takes to achieve this vision.",
+                "ask if they are willing to commit to the program and to themselves.",
+                "make it easy for them to sign up."
+            ]
+        }
+    }
+}

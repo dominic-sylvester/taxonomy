@@ -1,22 +1,22 @@
-import { MarketingConfig } from "types"
+import { MarketingConfig } from "types";
 
 export const marketingConfig: MarketingConfig = {
   mainNav: [
     {
-      title: "Features",
-      href: "/#features",
+      title: "Blue Ocean Advisor Book",
+      href: "/boa",
     },
     {
-      title: "Pricing",
-      href: "/pricing",
+      title: "Prospecting PhD",
+      href: "/phd",
     },
     {
-      title: "Blog",
-      href: "/blog",
+      title: "Next Great Story",
+      href: "/ngs",
     },
     {
       title: "Documentation",
       href: "/docs",
     },
   ],
-}
+};

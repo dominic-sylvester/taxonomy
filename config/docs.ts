@@ -1,10 +1,14 @@
-import { DocsConfig } from "types"
+import { DocsConfig } from "types";
 
 export const docsConfig: DocsConfig = {
   mainNav: [
     {
-      title: "Documentation",
-      href: "/docs",
+      title: "Blue Ocean Advisor",
+      href: "/docs/boa",
+    },
+    {
+      title: "Tools and Resources",
+      href: "/guides",
     },
     {
       title: "Guides",
@@ -13,124 +17,84 @@ export const docsConfig: DocsConfig = {
   ],
   sidebarNav: [
     {
-      title: "Getting Started",
+      title: "Home",
       items: [
         {
-          title: "Introduction",
+          title: "Start Here",
           href: "/docs",
         },
       ],
     },
     {
-      title: "Documentation",
+      title: "Blue Ocean Advisor",
       items: [
         {
+          title: "Overview",
+          href: "/docs/boa",
+        },
+        {
           title: "Introduction",
-          href: "/docs/documentation",
+          href: "/docs/boa/introduction",
         },
         {
-          title: "Contentlayer",
-          href: "/docs/in-progress",
-          disabled: true,
+          title:
+            "1. Why Doesn't Every Producer Have A Million-Dollar Book Of Business?",
+          href: "/docs/boa/chapter-1",
         },
         {
-          title: "Components",
-          href: "/docs/documentation/components",
+          title:
+            "2. The Foundation And Fundamentals Of Becoming A Trusted, Successful Advisor",
+          href: "/docs/boa/chapter-2",
         },
         {
-          title: "Code Blocks",
-          href: "/docs/documentation/code-blocks",
+          title:
+            "3. The Initial Meeting: What Happens When We First Meet With A Prospect?",
+          href: "/docs/boa/chapter-3",
         },
         {
-          title: "Style Guide",
-          href: "/docs/documentation/style-guide",
+          title: "4. The Holy Grail In Sales (Discovery)",
+          href: "/docs/boa/chapter-4",
         },
         {
-          title: "Search",
-          href: "/docs/in-progress",
-          disabled: true,
+          title: "5. Building A Proposal That Creates Value-The Blueprint",
+          href: "/docs/boa/chapter-5",
+        },
+        {
+          title: "6. The Prospecting Effectiveness Formula",
+          href: "/docs/boa/chapter-6",
+        },
+        {
+          title: "7. Hidden In Plain Sight",
+          href: "/docs/boa/chapter-7",
+        },
+        {
+          title:
+            "8. Cold Calling Using A Creative Drop And How To Create A Referral Out Of Thin Air",
+          href: "/docs/boa/chapter-8",
+        },
+        {
+          title: "9. Pattern Interrupt & The Three Asks",
+          href: "/docs/boa/chapter-9",
         },
       ],
     },
+
     {
-      title: "Blog",
+      title: "Guides",
       items: [
         {
-          title: "Introduction",
+          title: "Employee Benefits",
           href: "/docs/in-progress",
-          disabled: true,
         },
         {
-          title: "Build your own",
+          title: "Property and Casualty",
           href: "/docs/in-progress",
-          disabled: true,
         },
         {
-          title: "Writing Posts",
+          title: "Tools and Resources",
           href: "/docs/in-progress",
-          disabled: true,
-        },
-      ],
-    },
-    {
-      title: "Dashboard",
-      items: [
-        {
-          title: "Introduction",
-          href: "/docs/in-progress",
-          disabled: true,
-        },
-        {
-          title: "Layouts",
-          href: "/docs/in-progress",
-          disabled: true,
-        },
-        {
-          title: "Server Components",
-          href: "/docs/in-progress",
-          disabled: true,
-        },
-        {
-          title: "Authentication",
-          href: "/docs/in-progress",
-          disabled: true,
-        },
-        {
-          title: "Database with Prisma",
-          href: "/docs/in-progress",
-          disabled: true,
-        },
-        {
-          title: "API Routes",
-          href: "/docs/in-progress",
-          disabled: true,
-        },
-      ],
-    },
-    {
-      title: "Marketing Site",
-      items: [
-        {
-          title: "Introduction",
-          href: "/docs/in-progress",
-          disabled: true,
-        },
-        {
-          title: "File Structure",
-          href: "/docs/in-progress",
-          disabled: true,
-        },
-        {
-          title: "Tailwind CSS",
-          href: "/docs/in-progress",
-          disabled: true,
-        },
-        {
-          title: "Typography",
-          href: "/docs/in-progress",
-          disabled: true,
         },
       ],
     },
   ],
-}
+};

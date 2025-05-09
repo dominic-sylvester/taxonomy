@@ -36,6 +36,26 @@ export const Doc = defineDocumentType(() => ({
   computedFields,
 }))
 
+export const BlueOceanAdvisor = defineDocumentType(() => ({
+  name: "Blue Ocean Advisor",
+  filePathPattern: `docs/boa/*.mdx`,
+  contentType: "mdx",
+  fields: {
+    title: {
+      type: "string",
+      required: true,
+    },
+    description: {
+      type: "string",
+    },
+    published: {
+      type: "boolean",
+      default: true,
+    },
+  },
+  computedFields,
+}))
+
 export const Guide = defineDocumentType(() => ({
   name: "Guide",
   filePathPattern: `guides/**/*.mdx`,
